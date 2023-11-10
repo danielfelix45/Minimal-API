@@ -6,10 +6,10 @@ Welcome to the Minimal API with ASP.NET Core repository! This project serves as 
 This project showcases the basics of creating a minimal API with ASP.NET Core, demonstrating how to set up endpoints and handle HTTP requests and responses.
 
 ## Features
-+ *Endpoint Configuration:* Simple setup of API endpoints.
-+ *Routing:* Basic routing for handling different HTTP requests.
-+ *Request and Response Handling:* Handling incoming requests and crafting appropriate responses.
-+ *Middleware:* Introduction to middleware for additional processing.
++ **Endpoint Configuration:** Simple setup of API endpoints.
++ **Routing:** Basic routing for handling different HTTP requests.
++ **Request and Response Handling:** Handling incoming requests and crafting appropriate responses.
++ **Middleware:** Introduction to middleware for additional processing.
 
 ## Prerequisites
 
@@ -17,12 +17,21 @@ Before you begin, ensure that you have the [ASP.NET Core SDK](https://dotnet.mic
 
 ## Installation
 1-Clone this repository to your machine:
-* git clone https://github.com/danielfelix45/Minimal-API.git
+
+```
+git clone https://github.com/danielfelix45/Minimal-API.git
+
+```
 
 2-Navigate to the project directory:
-* cd Minimal-API
+
+```
+cd Minimal-API
+
+```
 
 3-Open the project in your preferred code editor.
+
 4-Run the application.
 
 ## Usage
@@ -35,9 +44,6 @@ Make sure to adhere to the contribution and code guidelines of this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
-
-## Author
-This project was developed by [Daniel Felix](https://github.com/danielfelix45).
 
 ## Acknowledgments
 
