@@ -20,14 +20,12 @@ Before you begin, ensure that you have the [ASP.NET Core SDK](https://dotnet.mic
 
 ```
 git clone https://github.com/danielfelix45/Minimal-API.git
-
 ```
 
 2-Navigate to the project directory:
 
 ```
 cd Minimal-API
-
 ```
 
 3-Open the project in your preferred code editor.
